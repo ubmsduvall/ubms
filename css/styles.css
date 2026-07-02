@@ -28,6 +28,7 @@ body
 #card_one
 {
     width: 400px;
+    height: 115px;
     margin: 20px auto;
     padding: 15px;
     
@@ -70,4 +71,14 @@ body
 #div_table_padding
 {
     padding: 50px;    
+}
+
+#div_download
+{
+    width:200px;
+    size:25px;
+    margin-top: 10px;
+    margin-bottom:5px;
+    margin-left:100px;
+    border: 1px solid black;
 }
